@@ -1,6 +1,7 @@
 package com.example.showspot.models;
 
 import com.example.showspot.models.enums.BookingStatus;
+import jakarta.persistence.Entity;
 import lombok.Getter;
 import lombok.Setter;
 
